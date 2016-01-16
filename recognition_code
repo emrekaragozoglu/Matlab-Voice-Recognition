@@ -85,7 +85,7 @@
         sumnum(c,1)=sum;
         sum=0;
     end
-
+    
 [value,index]=min(sumnum);
 if(index==10)
     number=0;

@@ -1,3 +1,3 @@
-# matlab-voice-recognition
+# Matlab-Voice-Recognition
 Matlab implementation of voice recognition system.<br>
-For complete report: https://drive.google.com/file/d/0B55FMowYZhIfMkFWNDNadWhDNlE/view?usp=sharing
+<b>For complete report:</b> https://drive.google.com/file/d/0B55FMowYZhIfMkFWNDNadWhDNlE/view?usp=sharing
